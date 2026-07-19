@@ -9,8 +9,6 @@
 
 ---
 
-### 📊 Статистика
-
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=6ch6rr6&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
