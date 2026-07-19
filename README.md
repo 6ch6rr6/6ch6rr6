@@ -65,6 +65,14 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=dark)
 
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+###
+
 </div>
 
 
