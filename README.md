@@ -11,11 +11,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=6ch6rr6&show_icons=true&count_private=true&hide_border=true&theme=dark)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6ch6rr6&layout=compact&hide_border=true&theme=dark)
 
 </div>
 
