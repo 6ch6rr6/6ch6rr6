@@ -65,7 +65,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=6ch6rr6&theme=tokyonight&no-frame=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?user=6ch6rr6&theme=dark&no-frame=true&column=7)
 
 </div>
 
