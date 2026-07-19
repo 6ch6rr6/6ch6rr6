@@ -63,12 +63,12 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=github_dark)
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=6ch6rr6&theme=dark&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=6ch6rr6&theme=github_dark&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ###
