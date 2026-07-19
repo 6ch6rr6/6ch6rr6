@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ch6rr6&hide_border=true&theme=dracula)
 
 ###
 
