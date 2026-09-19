@@ -7,6 +7,22 @@
 
 </div>
 
+<div align="center">
+  
+Welcome to my profile! I am a developer and creator, deeply rooted in the **DISTORTION** culture. 
+
+### About Distortion
+**DISTORTION** is the ultimate creative and gaming hub. We bring together passionate gamers, visionary game developers, digital artists, music producers, and fashion enthusiasts under one roof. 
+
+🕹️ **Gaming & Dev:** Building unique gaming experiences and interactive worlds.
+🎨 **Art & Design:** Designing exclusive merchandise and visual content.
+🎵 **Music Production:** Producing beats and tracks that define our culture.
+
+---
+
+### 📫 Connect with me
+* 🏢 **Community:** [DISTORTION]
+* 🌐 **Website:** https://ngrok-free.app
 
 ###
 
@@ -57,33 +73,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
-###
-
-
-<div align="center">
-
-# 1twasaura 🎧🎮
-
-Welcome to my profile! I am a developer and creator, deeply rooted in the **DISTORTION** culture. 
-
-### 🌐 About Distortion
-**DISTORTION** is the ultimate creative and gaming hub. We bring together passionate gamers, visionary game developers, digital artists, music producers, and fashion enthusiasts under one roof. 
-
-* 🕹️ **Gaming & Dev:** Building unique gaming experiences and interactive worlds.
-* 🎨 **Art & Design:** Designing exclusive merchandise and visual content.
-* 🎵 **Music Production:** Producing beats and tracks that define our culture.
-
----
-
-### 🛠️ Tech Stack & Skills
-*(Тут уже красиво оформлены ваши иконки из C#, C++, Python, JS, TS, React, Next.js, Neovim и PyCharm)*
-
----
-
-### 📫 Connect with me
-* 🏢 **Community:** [DISTORTION]
-* 🌐 **Website:** https://ngrok-free.app
 
 ###
 
