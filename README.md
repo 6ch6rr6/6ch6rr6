@@ -14,9 +14,9 @@ Welcome to my profile! I am a developer and creator, deeply rooted in the **DIST
 ### About Distortion
 **DISTORTION** is the ultimate creative and gaming hub. We bring together passionate gamers, visionary game developers, digital artists, music producers, and fashion enthusiasts under one roof. 
 
-🕹️ **Gaming & Dev:** Building unique gaming experiences and interactive worlds.
-🎨 **Art & Design:** Designing exclusive merchandise and visual content.
-🎵 **Music Production:** Producing beats and tracks that define our culture.
+-🕹️ **Gaming & Dev:** Building unique gaming experiences and interactive worlds.
+-🎨 **Art & Design:** Designing exclusive merchandise and visual content.
+-🎵 **Music Production:** Producing beats and tracks that define our culture.
 
 ---
 
@@ -69,6 +69,8 @@ Welcome to my profile! I am a developer and creator, deeply rooted in the **DIST
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+###
 
 <div align="center">
 
