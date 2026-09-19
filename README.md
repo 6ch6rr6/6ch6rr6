@@ -14,15 +14,13 @@ Welcome to my profile! I am a developer and creator, deeply rooted in the **DIST
 ### About Distortion
 **DISTORTION** is the ultimate creative and gaming hub. We bring together passionate gamers, visionary game developers, digital artists, music producers, and fashion enthusiasts under one roof. 
 
-  🕹️ **Gaming & Dev:** Building unique gaming experiences and interactive worlds.
-  🎨 **Art & Design:** Designing exclusive merchandise and visual content.
-  🎵 **Music Production:** Producing beats and tracks that define our culture.
+🕹️ **Gaming & Dev:** Building unique gaming experiences and interactive worlds.
+
+🎨 **Art & Design:** Designing exclusive merchandise and visual content.
+
+🎵 **Music Production:** Producing beats and tracks that define our culture.
 
 ---
-
-### 📫 Connect with me
-* 🏢 **Community:** [DISTORTION]
-* 🌐 **Website:** https://ngrok-free.app
 
 ###
 
@@ -76,15 +74,11 @@ Welcome to my profile! I am a developer and creator, deeply rooted in the **DIST
 
 ###
 
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=6ch6rr6&theme=dracula&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-###
+### 📫 Connect with me
+* 🏢 **Community:** [DISTORTION]
+* 🌐 **Website:** https://ngrok-free.app
 
 </div>
-
-
 
 <div align="center">
 
