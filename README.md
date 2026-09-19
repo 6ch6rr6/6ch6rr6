@@ -72,14 +72,6 @@ Welcome to my profile! I am a developer and creator, deeply rooted in the **DIST
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
-
-### 📫 Connect with me
-* 🏢 **Community:** [DISTORTION]
-* 🌐 **Website:** https://ngrok-free.app
-
-</div>
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-6ch6rr6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6ch6rr6)
